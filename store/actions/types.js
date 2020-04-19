@@ -1,0 +1,6 @@
+export const FACEBOOK_LOGIN_SUCESS = "FACEBOOK_LOGIN_SUCESS"
+export const FACEBOOK_LOGIN_FAIL = "FACEBOOK_LOGIN_FAIL"
+export const FETCH_JOBS  =  "FETCH_JOBS"
+export const LIKE_JOBS  =  "LIKE_JOBS"
+export const CLEAR_JOBS  =  "CLEAR_JOBS"
+
